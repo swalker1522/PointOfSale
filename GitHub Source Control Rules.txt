@@ -1,0 +1,3 @@
+GitHub Source Control Rules
+Prior to making any changes, a fork must be created.
+Submission of any changes to any branch must include the date, time and purpose of the change.
