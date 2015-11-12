@@ -1,0 +1,13 @@
+Static Variables:
+	All Static variables and methods will be named in all UPPERCASE.
+Public Variables:
+	All Public variables and methods will be named in CamelCasing.
+Private Variables:
+	All Private variables and methods will be names in parselCasing.
+Enums:
+Methods:
+	Comments will be placed before every method describing the purpose of the method,
+		the parameters of the method.
+Functions:
+	Comments will be placed before every function describing the action of the function,
+		its manipulation of data, parameters and it's output.
