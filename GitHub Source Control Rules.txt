@@ -1,2 +1,8 @@
 Prior to making any changes, a fork must be created.
 Submission of any changes to any branch must include the date, time and purpose of the change.
+
+
+Any change must be peer reviewed
+Any change must be made on a feature branch
+any change must be merged into develop branch prior to being published as a release to master.
+commit small, commit early, commit often
